@@ -1,7 +1,7 @@
 # Hello, I'm Michael Hebbeln 👋
-- 🎓 Senior at the University of Iowa studying Finance and Business Analytics.
-- 💻 Interested in data-driven insights, analytics, and finance.
+- 🎓 I am a Senior at the University of Iowa studying Business Analytics and Finance.
+- 🏡 I am from Libertyville, Illinois.
+- 🌟 Interested in leveraging data and analytics to solve complex business problems and drive financial decision-making.
 - 📫 Contact me:
-  - [Email](mailto:michaelhebbeln@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/michael-hebbeln-174609233)
-
+  - **Email:** michaelhebbeln@gmail.com
+  - **LinkedIn:** [linkedin.com/in/michael-hebbeln-174609233](https://www.linkedin.com/in/michael-hebbeln-174609233)
